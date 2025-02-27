@@ -1,4 +1,4 @@
-Try out the [Hunyuan Video Keyframe Lora](https://huggingface.co/dashtoon/hunyuan-video-keyframe-control-lora) by running it on [Modal's Serverless AI cloud]. Just need to clone this repository and sign up for Modal  (if you haven't already).
+Try out the [Hunyuan Video Keyframe Lora](https://huggingface.co/dashtoon/hunyuan-video-keyframe-control-lora) by running it on [Modal's Serverless AI cloud](https://modal.com). Just need to clone this repository and sign up for Modal  (if you haven't already).
 
 Once you've signed up for Modal, just run:
 
