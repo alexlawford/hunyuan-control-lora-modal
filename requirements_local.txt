@@ -1,0 +1,4 @@
+modal
+numpy
+Pillow
+torch

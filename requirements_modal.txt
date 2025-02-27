@@ -1,0 +1,9 @@
+numpy
+safetensors
+torch
+torchvision
+opencv-python-headless
+peft
+Pillow
+huggingface_hub
+diffusers
